@@ -1,0 +1,29 @@
+body{
+    background-color: aquamarine;
+}
+
+
+.main{
+    margin-left: 30%;
+    margin-top: 5%;
+    border: solid rgb(243, 93, 6) 2px;
+    background-color: rgb(248, 229, 56);
+    width: 30%;
+    height: 50%;
+}
+
+h1{
+    margin-left: 35%;
+}
+
+.result span{
+    margin: 10px;
+}
+
+.buttons{
+    margin: 10px;
+}
+
+.buttons button{
+    margin: 2px;
+}
